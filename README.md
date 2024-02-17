@@ -1,4 +1,4 @@
-# card
+# DigiCard
 
 A new Flutter project.
 
